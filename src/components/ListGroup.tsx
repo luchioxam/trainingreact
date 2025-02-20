@@ -10,7 +10,7 @@ function ListGroup() {
     "Biarritz",
   ];
 
-  const [selectedItem, setSelectedItem] = useState(null);
+  const [selectedItem, setSelectedItem] = useState(0);
 
   return (
     <>
